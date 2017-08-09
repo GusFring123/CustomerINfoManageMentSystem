@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c3p0-config>
+    <default-config>
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/cims?characterEncoding=utf8</property>
+        <property name="user">用户名在这里写</property>
+        <property name="password">密码在这里写</property>
+    </default-config>
+</c3p0-config>

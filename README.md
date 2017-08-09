@@ -1,0 +1,2 @@
+# CustomerINfoManageMentSystem
+使用DbUtils实现增删改查用户信息，设计分页显示技术，MVC设计思想，基础工厂类实现层间解耦
